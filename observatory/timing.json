@@ -1,0 +1,93 @@
+[
+ {
+  "pl_name": "TOI-270 b",
+  "ra": 68.4160804,
+  "dec": -51.9573937,
+  "pl_orbper": 3.35992,
+  "pl_orbpererr1": 5e-05,
+  "pl_orbpererr2": -5e-05,
+  "pl_tranmid": 2458461.01464,
+  "pl_tranmiderr1": 0.00084,
+  "pl_tranmiderr2": -0.00093,
+  "pl_trandur": 1.294,
+  "sy_vmag": 12.603
+ },
+ {
+  "pl_name": "TOI-270 c",
+  "ra": 68.4160804,
+  "dec": -51.9573937,
+  "pl_orbper": 5.66051,
+  "pl_orbpererr1": 4e-05,
+  "pl_orbpererr2": -4e-05,
+  "pl_tranmid": 2458463.08056,
+  "pl_tranmiderr1": 0.0004,
+  "pl_tranmiderr2": -0.0004,
+  "pl_trandur": 1.682,
+  "sy_vmag": 12.603
+ },
+ {
+  "pl_name": "TOI-270 d",
+  "ra": 68.4160804,
+  "dec": -51.9573937,
+  "pl_orbper": 11.38194,
+  "pl_orbpererr1": 0.00011,
+  "pl_orbpererr2": -0.00011,
+  "pl_tranmid": 2458469.33823,
+  "pl_tranmiderr1": 0.00032,
+  "pl_tranmiderr2": -0.00032,
+  "pl_trandur": 2.117,
+  "sy_vmag": 12.603
+ },
+ {
+  "pl_name": "TOI-700 b",
+  "ra": 97.0957165,
+  "dec": -65.5786149,
+  "pl_orbper": 9.97722,
+  "pl_orbpererr1": 1.2e-05,
+  "pl_orbpererr2": -1.2e-05,
+  "pl_tranmid": 2458880.0994,
+  "pl_tranmiderr1": 0.0012,
+  "pl_tranmiderr2": -0.0013,
+  "pl_trandur": 2.13,
+  "sy_vmag": 13.151
+ },
+ {
+  "pl_name": "TOI-700 c",
+  "ra": 97.0957165,
+  "dec": -65.5786149,
+  "pl_orbper": 16.0511039,
+  "pl_orbpererr1": 5.6e-06,
+  "pl_orbpererr2": -5.5e-06,
+  "pl_tranmid": 2458821.6219,
+  "pl_tranmiderr1": 0.00041,
+  "pl_tranmiderr2": -0.00043,
+  "pl_trandur": 1.399,
+  "sy_vmag": 13.151
+ },
+ {
+  "pl_name": "TOI-700 d",
+  "ra": 97.0957165,
+  "dec": -65.5786149,
+  "pl_orbper": 37.423457,
+  "pl_orbpererr1": 1.8e-05,
+  "pl_orbpererr2": -1.7e-05,
+  "pl_tranmid": 2460763.01612,
+  "pl_tranmiderr1": 0.00021,
+  "pl_tranmiderr2": -0.00023,
+  "pl_trandur": 3.3029,
+  "sy_vmag": 13.151
+ },
+ {
+  "pl_name": "TOI-700 e",
+  "ra": 97.0957165,
+  "dec": -65.5786149,
+  "pl_orbper": 27.810124,
+  "pl_orbpererr1": 7.1e-05,
+  "pl_orbpererr2": -8.7e-05,
+  "pl_tranmid": 2460772.46343,
+  "pl_tranmiderr1": 0.00024,
+  "pl_tranmiderr2": -0.00024,
+  "pl_trandur": 3.0593,
+  "sy_vmag": 13.151
+ }
+]
